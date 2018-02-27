@@ -1,4 +1,4 @@
-#Concept
+# Concept
 
 * Is identical in UI and function on both iOS and Android.
 * Supports segwit (both P2SH and bech32) as standard.
